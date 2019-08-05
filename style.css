@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Rokkitt:700);
+body{
+  background-image: url('https://techcrunch.com/wp-content/uploads/2015/02/wikipedia-down.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+    color: aliceblue;
+}
+.heading{
+  border-radius:25px;
+  margin:1%;
+  padding:1%;
+  display:inline-block;
+  font-family:'Rokkitt';
+    color: aliceblue;
+}
+.heading img{
+  border-radius:25px;
+  display:inline-block;
+  font-family:'Rokkitt';
+  width:20%;
+    color: aliceblue;
+}
+a { color: inherit; 
+} 
+h2{
+  color:black;
+  padding-left:1%;
+  padding-top:1%;
+}
+p{
+  padding-bottom: 1%;
+  padding-left:1%;
+  font-size:25px;
+}
+div{
+  border-radius:25px;
+}
+
+button{
+margin:1%;
+}
+#output{
+ margin-top:1%;
+  border-radius:25px;
+  font-family:'Rokkitt';
+}
+h2{
+  font-family:Rokkitt;
+}
